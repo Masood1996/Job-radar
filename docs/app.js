@@ -1,4 +1,4 @@
-const COMPANY_URL='../data/companies.json';const JOBS_URL='../data/jobs.json';let companies=[],jobs=[];const KEY='pharmaRadarState';const COMPANY_KEY='pharmaRadarImportedCompanies';
+const COMPANY_URL='./data/companies.json';const JOBS_URL='./data/jobs.json';let companies=[],jobs=[];const KEY='pharmaRadarState';const COMPANY_KEY='pharmaRadarImportedCompanies';
 function companyId(c){return (c.name+'|'+c.country).toLowerCase().trim();}
 function getImportedCompanies(){try{return JSON.parse(localStorage.getItem(COMPANY_KEY)||'[]')}catch(e){return []}}
 function saveImportedCompanies(list){localStorage.setItem(COMPANY_KEY,JSON.stringify(list));}
