@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
-ROOT=os.path.dirname(os.path.dirname(__file__)); DATA=os.path.join(ROOT,'data'); COMP=os.path.join(DATA,'companies.json'); OUT=os.path.join(DATA,'jobs.json');
+ROOT=os.path.dirname(os.path.dirname(__file__)); DATA=os.path.join(ROOT,'docs','data'); COMP=os.path.join(DATA,'companies.json'); OUT=os.path.join(DATA,'jobs.json');
 KEYWORDS=['quality control','quality assurance','qc specialist','qa specialist','qc analyst','qa analyst','quality specialist','quality operations','gmp','good manufacturing practice','quality systems','quality compliance','laboratory analyst','laboratory specialist','microbiology','sterile','aseptic','injectable','validation','batch release']
 UA='PharmaJobRadar/1.0 (+job monitoring)'
 def clean(s): return re.sub(r'\s+',' ',s or '').strip()
