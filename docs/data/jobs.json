@@ -99,6 +99,72 @@
     "description": "More"
   },
   {
+    "id": "71d6ec00effe463f",
+    "status": "new",
+    "foundAt": "2026-09-10T20:53:27.083494+00:00",
+    "company": "IDT Biologika",
+    "country": "Germany",
+    "title": "Potential matching vacancy",
+    "url": "https://idt-biologika.com/careers/",
+    "score": 47,
+    "description": ""
+  },
+  {
+    "id": "623397ada2fca7ee",
+    "status": "new",
+    "foundAt": "2026-09-10T20:53:27.083188+00:00",
+    "company": "IDT Biologika",
+    "country": "Germany",
+    "title": "Sterile Injectables",
+    "url": "https://idt-biologika.com/cdmo-offering/sterile-injectables/",
+    "score": 47,
+    "description": "Sterile Injectables"
+  },
+  {
+    "id": "fd8808ff7bd4b622",
+    "status": "new",
+    "foundAt": "2026-09-10T20:53:27.083258+00:00",
+    "company": "IDT Biologika",
+    "country": "Germany",
+    "title": "Aseptic Fill-Finish & Lyophilization",
+    "url": "https://idt-biologika.com/biomanufacturing-services/aseptic-fill-finish/",
+    "score": 47,
+    "description": "Aseptic Fill-Finish & Lyophilization"
+  },
+  {
+    "id": "b0b233f5c4198eb4",
+    "status": "new",
+    "foundAt": "2026-09-10T20:53:27.083282+00:00",
+    "company": "IDT Biologika",
+    "country": "Germany",
+    "title": "Quality Control & Analytics",
+    "url": "https://idt-biologika.com/biomanufacturing-services/quality-control-analytics/",
+    "score": 47,
+    "description": "Quality Control & Analytics"
+  },
+  {
+    "id": "4fef661936b50fa4",
+    "status": "new",
+    "foundAt": "2026-09-10T20:53:27.083093+00:00",
+    "company": "IDT Biologika",
+    "country": "Germany",
+    "title": "Click here to go to our career website",
+    "url": "https://karriere.idt-biologika.com/",
+    "score": 47,
+    "description": "Click here to go to our career website"
+  },
+  {
+    "id": "c71f02616af187fc",
+    "status": "new",
+    "foundAt": "2026-09-10T20:53:27.083118+00:00",
+    "company": "IDT Biologika",
+    "country": "Germany",
+    "title": "current vacancies",
+    "url": "https://karriere.idt-biologika.com/stellenmarkt/",
+    "score": 47,
+    "description": "current vacancies"
+  },
+  {
     "id": "64b620079d7c8afa",
     "status": "new",
     "foundAt": "2026-08-11T12:35:27.799234+00:00",
@@ -185,5 +251,93 @@
     "url": "https://www.siegfried.ch/careers/scientific-technical/",
     "score": 39,
     "description": "In our scientific and technical roles, expect to push boundaries"
+  },
+  {
+    "id": "5dee0e3480334b67",
+    "status": "new",
+    "foundAt": "2026-09-10T20:53:42.519934+00:00",
+    "company": "Bioton",
+    "country": "Poland",
+    "title": "Change cookie settings",
+    "url": "https://bioton.com/en/career/",
+    "score": 39,
+    "description": "Change cookie settings"
+  },
+  {
+    "id": "65cfbdee182c9479",
+    "status": "new",
+    "foundAt": "2026-09-10T20:53:42.517192+00:00",
+    "company": "Bioton",
+    "country": "Poland",
+    "title": "Discover bioton",
+    "url": "https://bioton.com/en/career/#discover-bioton",
+    "score": 39,
+    "description": "Discover bioton"
+  },
+  {
+    "id": "4515f2fe17d374b9",
+    "status": "new",
+    "foundAt": "2026-09-10T20:53:42.517446+00:00",
+    "company": "Bioton",
+    "country": "Poland",
+    "title": "Recruitment",
+    "url": "https://bioton.com/en/career/#recruitment",
+    "score": 39,
+    "description": "Recruitment"
+  },
+  {
+    "id": "9fddb2844c891178",
+    "status": "new",
+    "foundAt": "2026-09-10T20:53:42.518281+00:00",
+    "company": "Bioton",
+    "country": "Poland",
+    "title": "see more",
+    "url": "https://bioton.com/en/career/#recruitmentStep1",
+    "score": 39,
+    "description": "see more"
+  },
+  {
+    "id": "58f6a8f2d72effba",
+    "status": "new",
+    "foundAt": "2026-09-10T20:53:42.518529+00:00",
+    "company": "Bioton",
+    "country": "Poland",
+    "title": "see more",
+    "url": "https://bioton.com/en/career/#recruitmentStep2",
+    "score": 39,
+    "description": "see more"
+  },
+  {
+    "id": "4e2a12562427b49a",
+    "status": "new",
+    "foundAt": "2026-09-10T20:53:42.518793+00:00",
+    "company": "Bioton",
+    "country": "Poland",
+    "title": "see more",
+    "url": "https://bioton.com/en/career/#recruitmentStep3",
+    "score": 39,
+    "description": "see more"
+  },
+  {
+    "id": "bc6a3c7d735c2af1",
+    "status": "new",
+    "foundAt": "2026-09-10T20:53:42.519030+00:00",
+    "company": "Bioton",
+    "country": "Poland",
+    "title": "see more",
+    "url": "https://bioton.com/en/career/#recruitmentStep4",
+    "score": 39,
+    "description": "see more"
+  },
+  {
+    "id": "e8c733d16adc79b2",
+    "status": "new",
+    "foundAt": "2026-09-10T20:53:42.519250+00:00",
+    "company": "Bioton",
+    "country": "Poland",
+    "title": "see more",
+    "url": "https://bioton.com/en/career/#recruitmentStep5",
+    "score": 39,
+    "description": "see more"
   }
 ]
