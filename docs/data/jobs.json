@@ -187,6 +187,94 @@
     "description": "Join us"
   },
   {
+    "id": "64b620079d7c8afa",
+    "status": "new",
+    "foundAt": "2026-10-03T16:18:54.111282+00:00",
+    "company": "Siegfried",
+    "country": "Germany",
+    "title": "Careers",
+    "url": "https://www.siegfried.ch/careers/",
+    "score": 39,
+    "description": "Careers"
+  },
+  {
+    "id": "9a0bf9571d6ec50e",
+    "status": "new",
+    "foundAt": "2026-10-03T16:18:54.110626+00:00",
+    "company": "Siegfried",
+    "country": "Germany",
+    "title": "Deutsch",
+    "url": "https://www.siegfried.ch/de/careers/",
+    "score": 39,
+    "description": "Deutsch"
+  },
+  {
+    "id": "31f920460bf0ce63",
+    "status": "new",
+    "foundAt": "2026-10-03T16:18:54.110698+00:00",
+    "company": "Siegfried",
+    "country": "Germany",
+    "title": "Français",
+    "url": "https://www.siegfried.ch/fr/careers/",
+    "score": 39,
+    "description": "Français"
+  },
+  {
+    "id": "cf0fc584acf9b6d5",
+    "status": "new",
+    "foundAt": "2026-10-03T16:18:54.110769+00:00",
+    "company": "Siegfried",
+    "country": "Germany",
+    "title": "Español",
+    "url": "https://www.siegfried.ch/es/careers/",
+    "score": 39,
+    "description": "Español"
+  },
+  {
+    "id": "26ce15a188d6056a",
+    "status": "new",
+    "foundAt": "2026-10-03T16:18:54.110342+00:00",
+    "company": "Siegfried",
+    "country": "Germany",
+    "title": "Sterile injectables",
+    "url": "https://www.siegfried.ch/offering/drug-products/sterile-injectables/",
+    "score": 39,
+    "description": "Sterile injectables"
+  },
+  {
+    "id": "aaf611381c01b1fa",
+    "status": "new",
+    "foundAt": "2026-10-03T16:18:54.111139+00:00",
+    "company": "Siegfried",
+    "country": "Germany",
+    "title": "Open positions",
+    "url": "https://siegfried.wd103.myworkdayjobs.com/external",
+    "score": 39,
+    "description": "Open positions"
+  },
+  {
+    "id": "8f6e52e48a2b8771",
+    "status": "new",
+    "foundAt": "2026-10-03T16:18:54.110991+00:00",
+    "company": "Siegfried",
+    "country": "Germany",
+    "title": "In our business functions, expect to drive success",
+    "url": "https://www.siegfried.ch/careers/business-professionals/",
+    "score": 39,
+    "description": "In our business functions, expect to drive success"
+  },
+  {
+    "id": "bde6e791a3d9b05c",
+    "status": "new",
+    "foundAt": "2026-10-03T16:18:54.111067+00:00",
+    "company": "Siegfried",
+    "country": "Germany",
+    "title": "In our scientific and technical roles, expect to push boundaries",
+    "url": "https://www.siegfried.ch/careers/scientific-technical/",
+    "score": 39,
+    "description": "In our scientific and technical roles, expect to push boundaries"
+  },
+  {
     "id": "5dee0e3480334b67",
     "status": "new",
     "foundAt": "2026-10-02T05:39:22.492221+00:00",
